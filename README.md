@@ -8,9 +8,6 @@ Web scraping (or data scraping) is a technique used to collect content and data 
 However, when people refer to ‘web scrapers,’ they’re usually talking about software applications. Web scraping applications (or ‘bots’) are programmed to visit websites, grab the relevant pages and extract useful information. By automating this process, these bots can extract huge amounts of data in a very short time. This has obvious benefits in the digital age, when big data—which is constantly updating and changing—plays such a prominent ro
 
 
-![image](https://user-images.githubusercontent.com/73512374/179812470-387b579b-d9cb-43c3-ab25-f2379c4859fa.png)
-
-
 In this Task using youtube api and best data science youtubers channel id's are collected & about 10 best recommended channels are selected. After that googleapiclient method has a module built that scrapes the channel data into json format/Dictionary and then converted into DataFrame.did Data Visualization over the collecetd data.
 The best of best youtube channel is chosen as per the viewers, subscribers, likes, dislikes, no_of_videos uploaded, year of start etc...
 
