@@ -7,3 +7,4 @@ Web scraping (or data scraping) is a technique used to collect content and data 
 
 However, when people refer to ‘web scrapers,’ they’re usually talking about software applications. Web scraping applications (or ‘bots’) are programmed to visit websites, grab the relevant pages and extract useful information. By automating this process, these bots can extract huge amounts of data in a very short time. This has obvious benefits in the digital age, when big data—which is constantly updating and changing—plays such a prominent role.
 
+### How Webscraping Can be done using API:
