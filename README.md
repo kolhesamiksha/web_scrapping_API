@@ -1,4 +1,4 @@
-### Best Data Science Youtube Channel Analysis using YouTube API and Topic Modelling Using BERT(Bidirectional Encoder Represenation from ransformers
+### Best Data Science Youtube Channel Analysis using YouTube API and Topic Modelling Using BERT(Bidirectional Encoder Represenation from ransformers)
 
 ![super-necessary](https://user-images.githubusercontent.com/73512374/191668125-8538020b-6c7b-411f-8219-5d5c7ff7d40d.png)
 
@@ -9,7 +9,7 @@ However, when people refer to ‘web scrapers,’ they’re usually talking abou
 
 
 In this Task using youtube api and best data science youtubers channel id's are collected & about 10 best recommended channels are selected. After that googleapiclient method has a module built that scrapes the channel data into json format/Dictionary and then converted into DataFrame.did Data Visualization over the collecetd data.
-The best of best youtube channel is chosen as per the viewers, subscribers, likes, dislikes, no_of_videos uploaded, year of start etc...
+The best of best youtube channel is chosen as per the viewers, subscribers, likes, dislikes, no_of_videos uploads, year of start etc...
 
 1. created A Youtube API acess key/developer key for Youtube using google cloud
 2. how to create that access api is as follows.
